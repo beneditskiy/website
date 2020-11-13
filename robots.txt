@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://doctor.deepidea.cloud/sitemap.xml
